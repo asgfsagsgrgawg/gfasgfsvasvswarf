@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    background-color:aquamarine;
+}
+body{
+     background-image: url(file:///C:/Users/michael/Downloads/istockphoto-1360520558-612x612.jpg);
+     background-repeat: no-repeat;
+     background-position:center;
+     background-color:yellow;
+     
+
+}
+p{
+    background-color:aquamarine;
+    font-size:15px;
+}
+
+    
+
+input{
+    padding:20px;
+    border-radius:15px;
+    
+}
+
